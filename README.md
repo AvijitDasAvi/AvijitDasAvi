@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dart and Flutter**
 
-- 💬 Ask me about **anyrhung about me😊**
+- 💬 Ask me about **anything about me😊**
 
 - 📫 How to reach me **avijitavi338895@gmail.com**
 
