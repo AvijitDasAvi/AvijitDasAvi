@@ -1,4 +1,4 @@
-![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif&rdt=37811)
+![MasterHead](https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif)
 <h1 align="center">Hi 👋, I'm Avijit Das</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
