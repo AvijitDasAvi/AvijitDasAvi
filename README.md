@@ -20,12 +20,12 @@
 
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudparvez2050&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="Top Languages">
 
-- 🔭 **Currently Building: High-performance Flutter apps with real-time tracking, animations, and seamless user experiences
-- 🌱 **Always Learning: Advanced Flutter architecture (GetX, Clean Architecture), Dart optimization, and native integrations (Android/iOS)
-- 👯 **Collaboration: Open to exciting projects in cross-platform app development, real-time systems, and scalable mobile solutions
-- 🎯 **2025 Goals: Publish impactful apps on Play Store/App Store, contribute to Flutter open source, and master advanced app performance tuning
-- 💬 **Ask me about: Flutter, Dart, GetX, Firebase integration, REST APIs, or mobile app architecture
-- ⚡  **Fun fact: I fix UI bugs faster with hot reload 🔥 and debug logic step-by-step like solving a puzzle 🧩
+- 🔭 Currently Building: High-performance Flutter apps with real-time tracking, animations, and seamless user experiences
+- 🌱 Always Learning: Advanced Flutter architecture (GetX, Bloc, Clean Architecture), Dart optimization, and native integrations (Android/iOS)
+- 👯 Collaboration: Open to exciting projects in cross-platform app development, real-time systems, and scalable mobile solutions
+- 🎯 2026 Goals: Publish impactful apps on Play Store/App Store, contribute to Flutter open source, and master advanced app performance tuning
+- 💬 Ask me about: Flutter, Dart, State Management, Firebase integration, REST APIs, or mobile app architecture
+- ⚡  Fun fact: I fix UI bugs faster with hot reload 🔥 and debug logic step-by-step like solving a puzzle 🧩
 
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvijitDasAvi&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
@@ -37,43 +37,22 @@
 
 <div align="center">
 
-### 🎨 Frontend Technologies
+### 🎨 Application Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & Server Technologies
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![C](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🗄️ Databases & Storage
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Hive](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Shared Preferences](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### 🔧 Development Tools & Others
 
@@ -88,7 +67,7 @@
 
 ---
 
-## � Dynamic GitHub Analytics & Performance Metrics
+## Dynamic GitHub Analytics & Performance Metrics
 
 <div align="center">
   
@@ -98,12 +77,12 @@
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=masudparvez2050&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&count_private=true&include_all_commits=true" alt="Comprehensive GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AvijitDasAvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&count_private=true&include_all_commits=true" alt="Comprehensive GitHub Stats" />
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=masudparvez2050&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=7C3AED" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AvijitDasAvi&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=7C3AED" alt="GitHub Streak Stats" />
 
 </td>
 </tr>
@@ -111,11 +90,11 @@
 
 ### 🏆 GitHub Trophies & Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=masudparvez2050&theme=discord&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=AvijitDasAvi&theme=discord&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
 
 ### 📊 Detailed Contribution Analytics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=masudparvez2050&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph" alt="Detailed Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AvijitDasAvi&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph" alt="Detailed Contribution Graph" width="100%" />
 
 ### 💻 Coding Time & Language Distribution
 
@@ -124,13 +103,13 @@
 <td align="center" width="50%">
 
 **Most Used Languages**
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masudparvez2050&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages Donut" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AvijitDasAvi&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages Donut" />
 
 </td>
 <td align="center" width="50%">
 
 **Detailed Language Stats**
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=masudparvez2050&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&hide=html,css" alt="Detailed Language Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AvijitDasAvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&hide=html,css" alt="Detailed Language Stats" />
 
 </td>
 </tr>
@@ -165,8 +144,8 @@ CSS           0 hrs 45 mins  ▓░░░░░░░░░░░░░░░░
 
 ### 🏆 Pinned Repositories (Auto-Updated)
 
-[![PC Float AI Assistant](https://github-readme-stats.vercel.app/api/pin/?username=masudparvez2050&repo=pc_float_ai_assistant&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/masudparvez2050/pc_float_ai_assistant)
-[![Project Manager](https://github-readme-stats.vercel.app/api/pin/?username=masudparvez2050&repo=project-manager&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/masudparvez2050/project-manager)
+[![PC Float AI Assistant](https://github-readme-stats.vercel.app/api/pin/?username=AvijitDasAvi&repo=pc_float_ai_assistant&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AvijitDasAvi/pc_float_ai_assistant)
+[![Project Manager](https://github-readme-stats.vercel.app/api/pin/?username=AvijitDasAvi&repo=project-manager&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AvijitDasAvi/project-manager)
 
 </div>
 
@@ -183,7 +162,7 @@ CSS           0 hrs 45 mins  ▓░░░░░░░░░░░░░░░░
 - 🎯 **Tech Stack:** Electron, Node.js, AI APIs
 - ✨ **Features:** Voice commands, Smart automation, System integration
 - 📊 **Status:** 🟢 Active Development
-- 🔗 **[Live Demo](https://github.com/masudparvez2050/pc_float_ai_assistant)** | **[Repository](https://github.com/masudparvez2050/pc_float_ai_assistant)**
+- 🔗 **[Live Demo](https://github.com/AvijitDasAvi/pc_float_ai_assistant)** | **[Repository](https://github.com/AvijitDasAvi/pc_float_ai_assistant)**
 
 </td>
 <td width="50%">
@@ -353,7 +332,7 @@ Impact:
 
 ### 🎖️ GitHub Achievements
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=masudparvez2050&theme=discord&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S)
+![Achievements](https://github-profile-trophy.vercel.app/?username=AvijitDasAvi&theme=discord&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S)
 
 ### � Professional Certifications
 
@@ -390,7 +369,7 @@ Impact:
 
 <sub>✨ **This README is automatically updated using GitHub Actions** ✨</sub>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=masudparvez2050&label=Thanks%20for%20visiting&color=blueviolet&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=AvijitDasAvi&label=Thanks%20for%20visiting&color=blueviolet&style=for-the-badge)
 
 **⭐ Star my repositories if you found them useful!**
 
