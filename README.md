@@ -20,12 +20,12 @@
 
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudparvez2050&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="Top Languages">
 
-🔭 Currently Building: High-performance Flutter apps with real-time tracking, animations, and seamless user experiences
-🌱 Always Learning: Advanced Flutter architecture (GetX, Clean Architecture), Dart optimization, and native integrations (Android/iOS)
-👯 Collaboration: Open to exciting projects in cross-platform app development, real-time systems, and scalable mobile solutions
-🎯 2025 Goals: Publish impactful apps on Play Store/App Store, contribute to Flutter open source, and master advanced app performance tuning
-💬 Ask me about: Flutter, Dart, GetX, Firebase integration, REST APIs, or mobile app architecture
-⚡ Fun fact: I fix UI bugs faster with hot reload 🔥 and debug logic step-by-step like solving a puzzle 🧩
+- 🔭 **Currently Building: High-performance Flutter apps with real-time tracking, animations, and seamless user experiences
+- 🌱 **Always Learning: Advanced Flutter architecture (GetX, Clean Architecture), Dart optimization, and native integrations (Android/iOS)
+- 👯 **Collaboration: Open to exciting projects in cross-platform app development, real-time systems, and scalable mobile solutions
+- 🎯 **2025 Goals: Publish impactful apps on Play Store/App Store, contribute to Flutter open source, and master advanced app performance tuning
+- 💬 **Ask me about: Flutter, Dart, GetX, Firebase integration, REST APIs, or mobile app architecture
+- ⚡  **Fun fact: I fix UI bugs faster with hot reload 🔥 and debug logic step-by-step like solving a puzzle 🧩
 
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvijitDasAvi&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
