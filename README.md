@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Avijit%20Das&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" alt="Dynamic Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Avijit%20Das&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" alt="Dynamic Header"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Masudur+Rahman+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Expert+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Masudur+Rahman+%F0%9F%91%8B;Flutter+Developer+%F0%9F%92%BB;MERN+Stack+Expert+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" />
 </h1>
 
 <div align="center">
