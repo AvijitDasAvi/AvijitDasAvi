@@ -18,7 +18,7 @@
 
 ## 🌟 About Me
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudparvez2050&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="Top Languages">
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvijitDasAvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="Top Languages">
 
 - 🔭 Currently Building: High-performance Flutter apps with real-time tracking, animations, and seamless user experiences
 - 🌱 Always Learning: Advanced Flutter architecture (GetX, Bloc, Clean Architecture), Dart optimization, and native integrations (Android/iOS)
