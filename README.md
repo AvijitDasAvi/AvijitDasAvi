@@ -92,9 +92,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=AvijitDasAvi&theme=discord&no-frame=true&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
 
-### 📊 Detailed Contribution Analytics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AvijitDasAvi&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph" alt="Detailed Contribution Graph" width="100%" />
 
 ### 💻 Coding Time & Language Distribution
 
