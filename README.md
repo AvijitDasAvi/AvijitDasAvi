@@ -332,7 +332,7 @@ Impact:
 
 ### 🎖️ GitHub Achievements
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=AvijitDasAvi&theme=discord&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S)
+![Achievements](https://github-profile-trophy.vercel.app/?username=AvijitDasAvi&theme=discord&no-frame=true&no-bg=true&column=4)
 
 ### � Professional Certifications
 
